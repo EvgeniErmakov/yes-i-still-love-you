@@ -16,11 +16,11 @@ jobs:
         id: files
         uses: jitterbit/get-changed-files@v1
         
-      - name: find tabs
+      - name: tab
         run: |
-         for changed_file in ${{ steps.files.outputs.added_modified }}; do
+         for changed_file in ${{ steps.files.outputs.all }}; do
          echo "File ${changed_file} has been checked and count of tabs : " >> tabs.log
-         grep -c -P '\t' ${changed_file} >> tabs.log
+         grep -P '\t' ${changed_file} >> tabs.log
          done
          
       - name: upload report
