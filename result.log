@@ -1,22 +1,22 @@
-# Nmap 7.80 scan initiated Sat Oct  8 19:18:30 2022 as: nmap -sP -oN result.log 192.168.31.*
+# Nmap 7.80 scan initiated Sat Oct  8 19:21:40 2022 as: nmap -sP -oN result.log 192.168.31.*
 Nmap scan report for XiaoQiang (192.168.31.1)
-Host is up (0.00092s latency).
+Host is up (0.00089s latency).
 Nmap scan report for legion (192.168.31.122)
-Host is up (0.000039s latency).
+Host is up (0.00046s latency).
 Nmap scan report for jenkins.9.sa (192.168.31.130)
-Host is up (0.00040s latency).
+Host is up (0.00035s latency).
 Nmap scan report for legion (192.168.31.222)
-Host is up (0.00016s latency).
-# Nmap done at Sat Oct  8 19:18:33 2022 -- 256 IP addresses (4 hosts up) scanned in 2.41 seconds
+Host is up (0.000055s latency).
+# Nmap done at Sat Oct  8 19:21:42 2022 -- 256 IP addresses (4 hosts up) scanned in 2.51 seconds
 
    Speedtest by Ookla
 
-      Server: JLLC "COSMOS TV" - Minsk (id: 10323)
+      Server: BYFLY.BY - Minsk (id: 25480)
          ISP: Beltelecom
-Idle Latency:     2.39 ms   (jitter: 0.14ms, low: 2.31ms, high: 2.63ms)
-    Download:    94.12 Mbps (data used: 69.3 MB)                                                   
-                166.05 ms   (jitter: 49.28ms, low: 3.21ms, high: 277.79ms)
-      Upload:    50.55 Mbps (data used: 80.9 MB)                                                   
-                 30.78 ms   (jitter: 43.42ms, low: 1.26ms, high: 421.48ms)
+Idle Latency:     2.27 ms   (jitter: 0.04ms, low: 2.19ms, high: 2.31ms)
+    Download:    92.80 Mbps (data used: 46.5 MB)                                                   
+                148.51 ms   (jitter: 42.53ms, low: 5.85ms, high: 266.30ms)
+      Upload:    93.87 Mbps (data used: 42.3 MB)                                                   
+                  2.66 ms   (jitter: 0.22ms, low: 2.17ms, high: 3.29ms)
  Packet Loss:     0.0%
-  Result URL: https://www.speedtest.net/result/c/ab92e217-aeb2-4e08-a1d9-d1d424b996f4
+  Result URL: https://www.speedtest.net/result/c/20466423-0009-48ae-9fad-a12e3009dff9
