@@ -1,0 +1,22 @@
+# Nmap 7.80 scan initiated Sat Oct  8 18:45:39 2022 as: nmap -sP -oN report.log 192.168.31.*
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.00089s latency).
+Nmap scan report for legion (192.168.31.122)
+Host is up (0.000051s latency).
+Nmap scan report for jenkins.9.sa (192.168.31.130)
+Host is up (0.00039s latency).
+Nmap scan report for legion (192.168.31.222)
+Host is up (0.00014s latency).
+# Nmap done at Sat Oct  8 18:45:41 2022 -- 256 IP addresses (4 hosts up) scanned in 2.41 seconds
+
+
+
+Retrieving speedtest.net configuration...
+Testing from Beltelecom (37.214.72.32)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by A1 (Minsk) [0.29 km]: 5.339 ms
+Testing download speed................................................................................
+Download: 93.74 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 55.21 Mbit/s
