@@ -1,0 +1,19 @@
+
+
+
+Retrieving speedtest.net configuration...
+
+
+
+
+   Speedtest by Ookla
+
+      Server: Mobile TeleSystems JLLC - Minsk (id: 4268)
+         ISP: Beltelecom
+Idle Latency:     2.77 ms   (jitter: 0.07ms, low: 2.67ms, high: 2.81ms)
+    Download:    94.78 Mbps (data used: 87.8 MB)                                                   
+                208.27 ms   (jitter: 64.20ms, low: 6.09ms, high: 531.38ms)
+      Upload:    50.95 Mbps (data used: 81.5 MB)                                                   
+                 41.58 ms   (jitter: 46.08ms, low: 1.48ms, high: 421.04ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/275f4397-4dd5-4ab5-a3fa-c1564a8e5f80
