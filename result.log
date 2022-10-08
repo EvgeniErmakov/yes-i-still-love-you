@@ -1,22 +1,22 @@
-# Nmap 7.80 scan initiated Sat Oct  8 19:21:40 2022 as: nmap -sP -oN result.log 192.168.31.*
+# Nmap 7.80 scan initiated Sat Oct  8 19:30:54 2022 as: nmap -sP -oN result.log 192.168.31.*
 Nmap scan report for XiaoQiang (192.168.31.1)
-Host is up (0.00089s latency).
+Host is up (0.00090s latency).
 Nmap scan report for legion (192.168.31.122)
-Host is up (0.00046s latency).
+Host is up (0.000048s latency).
 Nmap scan report for jenkins.9.sa (192.168.31.130)
-Host is up (0.00035s latency).
+Host is up (0.00016s latency).
 Nmap scan report for legion (192.168.31.222)
-Host is up (0.000055s latency).
-# Nmap done at Sat Oct  8 19:21:42 2022 -- 256 IP addresses (4 hosts up) scanned in 2.51 seconds
+Host is up (0.00031s latency).
+# Nmap done at Sat Oct  8 19:30:57 2022 -- 256 IP addresses (4 hosts up) scanned in 2.91 seconds
 
    Speedtest by Ookla
 
-      Server: BYFLY.BY - Minsk (id: 25480)
+      Server: A1 - Minsk (id: 27486)
          ISP: Beltelecom
-Idle Latency:     2.27 ms   (jitter: 0.04ms, low: 2.19ms, high: 2.31ms)
-    Download:    92.80 Mbps (data used: 46.5 MB)                                                   
-                148.51 ms   (jitter: 42.53ms, low: 5.85ms, high: 266.30ms)
-      Upload:    93.87 Mbps (data used: 42.3 MB)                                                   
-                  2.66 ms   (jitter: 0.22ms, low: 2.17ms, high: 3.29ms)
+Idle Latency:     2.34 ms   (jitter: 0.08ms, low: 2.24ms, high: 2.38ms)
+    Download:    93.81 Mbps (data used: 42.4 MB)                                                   
+                 16.10 ms   (jitter: 0.75ms, low: 15.04ms, high: 24.34ms)
+      Upload:    50.47 Mbps (data used: 80.9 MB)                                                   
+                 44.85 ms   (jitter: 45.27ms, low: 1.17ms, high: 856.88ms)
  Packet Loss:     0.0%
-  Result URL: https://www.speedtest.net/result/c/20466423-0009-48ae-9fad-a12e3009dff9
+  Result URL: https://www.speedtest.net/result/c/f621a2eb-7d68-4a7d-a10c-4abcac9ab3eb
