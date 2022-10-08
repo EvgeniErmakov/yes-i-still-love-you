@@ -1,19 +1,22 @@
-
-
-
-Retrieving speedtest.net configuration...
-
-
-
+# Nmap 7.80 scan initiated Sat Oct  8 19:18:30 2022 as: nmap -sP -oN result.log 192.168.31.*
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.00092s latency).
+Nmap scan report for legion (192.168.31.122)
+Host is up (0.000039s latency).
+Nmap scan report for jenkins.9.sa (192.168.31.130)
+Host is up (0.00040s latency).
+Nmap scan report for legion (192.168.31.222)
+Host is up (0.00016s latency).
+# Nmap done at Sat Oct  8 19:18:33 2022 -- 256 IP addresses (4 hosts up) scanned in 2.41 seconds
 
    Speedtest by Ookla
 
-      Server: Mobile TeleSystems JLLC - Minsk (id: 4268)
+      Server: JLLC "COSMOS TV" - Minsk (id: 10323)
          ISP: Beltelecom
-Idle Latency:     2.77 ms   (jitter: 0.07ms, low: 2.67ms, high: 2.81ms)
-    Download:    94.78 Mbps (data used: 87.8 MB)                                                   
-                208.27 ms   (jitter: 64.20ms, low: 6.09ms, high: 531.38ms)
-      Upload:    50.95 Mbps (data used: 81.5 MB)                                                   
-                 41.58 ms   (jitter: 46.08ms, low: 1.48ms, high: 421.04ms)
+Idle Latency:     2.39 ms   (jitter: 0.14ms, low: 2.31ms, high: 2.63ms)
+    Download:    94.12 Mbps (data used: 69.3 MB)                                                   
+                166.05 ms   (jitter: 49.28ms, low: 3.21ms, high: 277.79ms)
+      Upload:    50.55 Mbps (data used: 80.9 MB)                                                   
+                 30.78 ms   (jitter: 43.42ms, low: 1.26ms, high: 421.48ms)
  Packet Loss:     0.0%
-  Result URL: https://www.speedtest.net/result/c/275f4397-4dd5-4ab5-a3fa-c1564a8e5f80
+  Result URL: https://www.speedtest.net/result/c/ab92e217-aeb2-4e08-a1d9-d1d424b996f4
